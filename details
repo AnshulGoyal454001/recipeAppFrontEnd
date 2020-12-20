@@ -1,0 +1,17 @@
+1. Image
+2. label
+3. dietLabels
+4. healthLabels
+5. cautions
+6. ingredientLines
+7. ingredients(text,weight,image)
+8. calories
+9. totalTime
+10.totalNutrients
+11.digest(Fat,Carbs,Protein,Cholesterol,Sodium,Calcium....)
+
+
+
+Recipie and buy it option, online store too
+
+#43BE31
