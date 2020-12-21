@@ -7,7 +7,6 @@ export default function Cautions({foodObj}){
             <View style={styles.container}>
                 <Text style={styles.heading}> Cautions </Text>
                 <View style={styles.badgesContainer}>
-                   
                     {foodObj.recipe.cautions.map((item) => {
                         return(
                             <Text style={styles.dietInfo} key={key++}>{item}</Text>
