@@ -10,7 +10,6 @@ import FeaturedScreen from './Screens/FeaturedScreen'
 import Drawer from './Components/Drawer/Drawer'
 import { Provider } from 'react-redux'
 import { configureStore } from "@reduxjs/toolkit";
-
 import rootReducer from "./features/listSlice";
 
 const store = configureStore({
